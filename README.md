@@ -70,8 +70,8 @@ Currently focusing on **MERN Stack Development**, building full-stack applicatio
 
 ## 📫 Connect With Me
 🌐 Portfolio: **rohitranmale.in**  
-💼 LinkedIn: *(Add your LinkedIn here)*  
-📧 Email: *(Add your email here)*  
+💼 LinkedIn: *linkedin.com/in/rohit-ranmale-4510a224a/*
+📧 Email: *rohitranmale4@gmail.com*  
 
 ---
 
