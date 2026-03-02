@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohit Ranmale
 
-<!--
-**rohitranmale11/rohitranmale11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer | MERN Stack Enthusiast | Problem Solver**
 
-Here are some ideas to get you started:
+I am a passionate **Full Stack Developer** with a strong interest in building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world projects and continuously learning new technologies to improve my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focusing on **MERN Stack Development**, building full-stack applications, and strengthening my knowledge in **Data Structures & Algorithms**.
+
+---
+
+## 🚀 About Me
+- 🎓 BE Computer Engineering Graduate  
+- 💻 Full Stack Web Developer  
+- 🔍 Interested in **Web Development, AI Integration & Modern UI/UX**  
+- 🌱 Currently learning **Advanced MERN Stack & System Design**  
+- 🛠 Love building **real-world projects & solving coding problems**  
+- 📍 Based in India  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
+⚡ Java  
+⚡ Python  
+⚡ C++  
+⚡ JavaScript  
+
+### 🌐 Frontend Development
+⚛ React.js  
+🎨 HTML5  
+🎨 CSS3  
+🎨 Tailwind CSS  
+🎨 Bootstrap  
+
+### ⚙ Backend Development
+🟢 Node.js  
+🟢 Express.js  
+🐘 PHP  
+
+### 🗄 Database
+🍃 MongoDB  
+🐬 MySQL  
+
+### 🧰 Tools & Technologies
+🔧 Git  
+🔧 GitHub  
+🔧 SourceTree  
+🔧 Navicat  
+🔧 VS Code  
+🔧 Postman  
+🔧 Docker (Learning)  
+
+---
+
+## 📂 Projects
+🚑 Healthcare Management System  
+🚖 Taxi & Tour Booking Website  
+🤖 AI in Digital Marketing Project  
+🌐 Personal Portfolio Website  
+
+---
+
+## 📈 What I'm Currently Working On
+- 🚀 Building Full Stack Web Applications  
+- 🧠 Practicing Data Structures & Algorithms  
+- 📚 Exploring AI tools in Web Development  
+
+---
+
+## 📫 Connect With Me
+🌐 Portfolio: **rohitranmale.in**  
+💼 LinkedIn: *(Add your LinkedIn here)*  
+📧 Email: *(Add your email here)*  
+
+---
+
+⭐ *Always learning, building, and improving every day.*
