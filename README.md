@@ -1,8 +1,15 @@
+<h1 align="center">Hi 👋, I'm Rohit Ranmale</h1>
+
+<h3 align="center">
+Full Stack Developer • MERN Stack Developer • Java Developer • Software Developer
+</h3>
+
+<p align="center">
+Building Scalable Web Applications • AI Integrations • Open to Opportunities 🚀
+</p>
+
+
 # 💫 About Me
-
-👋 Hi, I'm **Rohit Ranmale**
-
-💻 **Full Stack Developer | MERN Stack Developer | Java Developer**
 
 Passionate Full Stack Developer with hands-on experience building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world digital solutions and continuously learning new technologies to enhance my development skills.
 
