@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rohit Ranmale</h1>
 
-<h3 align="center">
-Full Stack Developer • MERN Stack Developer • Java Developer • Software Developer
-</h3>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Developer;Building+Scalable+Web+Applications;AI+Integration+Enthusiast;Open+to+Software+Development+Opportunities"
+    alt="Typing SVG"
+  />
+</p>
 
 <p align="center">
-Building Scalable Web Applications • AI Integrations • Open to Opportunities 🚀
+  <b>Building Scalable Web Applications • AI Integrations • Open to Opportunities 🚀</b>
 </p>
 
 
@@ -45,8 +48,6 @@ Passionate Full Stack Developer with hands-on experience building modern, scalab
 📍 Maharashtra, India
 
 ---
-
-# 💻 Tech Stack
 
 # 💻 Tech Stack
 
@@ -134,3 +135,7 @@ Passionate Full Stack Developer with hands-on experience building modern, scalab
 ✅ Software Engineer Opportunities
 
 ✅ Remote / Hybrid Opportunities
+
+## 🌐 Let's Connect 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohit_ranmale_11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/rohitranmale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitranmale26@gmail.com) 
