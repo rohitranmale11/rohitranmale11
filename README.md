@@ -1,78 +1,107 @@
-# 👋 Hi, I'm Rohit Ranmale
+# 💫 About Me
 
-💻 **Full Stack Developer | MERN Stack Enthusiast | Problem Solver**
+👋 Hi, I'm **Rohit Ranmale**
 
-I am a passionate **Full Stack Developer** with a strong interest in building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world projects and continuously learning new technologies to improve my development skills.
+💻 **Full Stack Developer | MERN Stack Developer | Java Developer**
 
-Currently focusing on **MERN Stack Development**, building full-stack applications, and strengthening my knowledge in **Data Structures & Algorithms**.
+Passionate Full Stack Developer with hands-on experience building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world digital solutions and continuously learning new technologies to enhance my development skills.
 
----
+🚀 I have worked on multiple real-world projects including Healthcare Platforms, AI-Powered Applications, Taxi Booking Systems, Agricultural Service Platforms, Business Websites, and Portfolio Solutions.
 
-## 🚀 About Me
-- 🎓 BE Computer Engineering Graduate  
-- 💻 Full Stack Web Developer  
-- 🔍 Interested in **Web Development, AI Integration & Modern UI/UX**  
-- 🌱 Currently learning **Advanced MERN Stack & System Design**  
-- 🛠 Love building **real-world projects & solving coding problems**  
-- 📍 Based in India  
+🎓 **B.E. Computer Engineering Student (2026)**
 
----
+🌱 Currently Exploring:
 
-## 🛠 Tech Stack
+* Advanced MERN Stack Development
+* System Design & Software Architecture
+* AI Integration in Web Applications
+* Scalable Backend Development
 
-### 💻 Programming Languages
-⚡ Java  
-⚡ Python  
-⚡ C++  
-⚡ JavaScript  
+💡 Areas of Interest:
 
-### 🌐 Frontend Development
-⚛ React.js  
-🎨 HTML5  
-🎨 CSS3  
-🎨 Tailwind CSS  
-🎨 Bootstrap  
+* Full Stack Development
+* Java Development
+* AI-Powered Applications
+* REST API Development
+* Modern UI/UX Design
 
-### ⚙ Backend Development
-🟢 Node.js  
-🟢 Express.js  
-🐘 PHP  
+🏆 Completed Multiple Industry Projects & Internships
 
-### 🗄 Database
-🍃 MongoDB  
-🐬 MySQL  
+💼 Open to:
 
-### 🧰 Tools & Technologies
-🔧 Git  
-🔧 GitHub  
-🔧 SourceTree  
-🔧 Navicat  
-🔧 VS Code  
-🔧 Postman  
-🔧 Docker (Learning)  
+* Full Stack Developer Roles
+* Software Developer Roles
+* MERN Stack Developer Opportunities
+* Java Developer Opportunities
+* Remote & Hybrid Opportunities
+
+📍 Maharashtra, India
 
 ---
 
-## 📂 Projects
-🚑 Healthcare Management System  
-🚖 Taxi & Tour Booking Website  
-🤖 AI in Digital Marketing Project  
-🌐 Personal Portfolio Website  
+# 💻 Tech Stack
+
+## 🎨 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
 ---
 
-## 📈 What I'm Currently Working On
-- 🚀 Building Full Stack Web Applications  
-- 🧠 Practicing Data Structures & Algorithms  
-- 📚 Exploring AI tools in Web Development  
+## ⚙ Backend Development
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens)
 
 ---
 
-## 📫 Connect With Me
-🌐 Portfolio: **rohitranmale.in**  
-💼 LinkedIn: *linkedin.com/in/rohit-ranmale-4510a224a/*
-📧 Email: *rohitranmale4@gmail.com*  
+## 🗄 Database & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ---
 
-⭐ *Always learning, building, and improving every day.*
+## 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+
+---
+
+## 🛠 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+---
+
+### 🚀 Currently Looking For
+
+✅ Full Stack Developer Roles
+
+✅ MERN Stack Developer Roles
+
+✅ Java Developer Roles
+
+✅ Software Engineer Opportunities
+
+✅ Remote / Hybrid Opportunities
