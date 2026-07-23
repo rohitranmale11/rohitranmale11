@@ -151,9 +151,9 @@ Passionate Full Stack Developer with hands-on experience building modern, scalab
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitranmale11&theme=tokyonight&utcOffset=5.5" />
 </p> 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rohitranmale11&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohitranmale11&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
