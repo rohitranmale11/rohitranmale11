@@ -128,10 +128,10 @@ Passionate Full Stack Developer with hands-on experience building modern, scalab
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitranmale11&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitranmale11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
+</p> -->
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=rohitranmale11&theme=tokyonight&hide_border=true&border_radius=12" />
